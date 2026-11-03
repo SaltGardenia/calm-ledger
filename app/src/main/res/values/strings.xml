@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">不烧心记账</string>
+
+    <string name="sync_service_label">不烧心记账 · 账单同步</string>
+    <string name="sync_service_summary">自动读取微信「零钱明细」并记账</string>
+    <string name="sync_service_desc">开启后，点击账户的同步按钮即可自动打开微信「零钱明细」，逐屏识别所选月份的流水并导入本应用。只在同步期间读取微信页面，不上传任何内容，可随时在系统设置中关闭。</string>
+</resources>
